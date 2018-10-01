@@ -1,0 +1,7 @@
+1) Done
+
+2) 3 new dogs (Fido, Fido, and Alfie) and 2 Animals (a and b)
+
+3) The comparator constructor call was the on line 16 with new Comparator<Animal>(){
+
+The class definition is underneath it from lines 17 to 19.
